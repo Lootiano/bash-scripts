@@ -24,7 +24,7 @@ source $HOME/path/to/todo.sh
 
 ### Adicionando uma tarefa
 
-Para adicionar uma tarefa use _tla_:
+Para adicionar uma tarefa use `tla`:
 
 ```sh
 tla Fazer o café
@@ -32,11 +32,11 @@ tla Fazer o café
 
 ### Listar tarefas
 
-Para listar as tarefas use somente _tla_ sem argumentos a mais
+Para listar as tarefas use somente `tla` sem argumentos a mais
 
 ### Excluir tarefas
 
-Para deletar as tarefas use _tlr_:
+Para deletar as tarefas use `tlr`:
 
 ```sh
 tlr 'Sequência de 4 digitos exibido na frente das tarefas quando listadas'
